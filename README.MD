@@ -3,4 +3,5 @@ Automatization
 skillup part 2
 QA
 Java
+computer science
 
